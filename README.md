@@ -11,6 +11,8 @@
 [<img align="left" alt="Mostafa Didar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mostafa Didar | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Mostafa Didar | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Mostafa Didar | Researchgate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][researchgate]
+
 
 <br/>
 
@@ -51,3 +53,4 @@
 [youtube]: https://www.youtube.com/channel/UCAHQBevXtoNrAo4WKQp0Eew
 [linkedin]: https://www.linkedin.com/in/mostafa-didar-226855140/
 [facebook]: https://www.facebook.com/mossydidar
+[researchgate]: https://www.researchgate.net/profile/Mostafa_Didar
