@@ -16,9 +16,9 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/26820783/89692997-0a6fa280-d92f-11ea-893f-245cb18579d3.png" />
+<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
+<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+<img align="left" alt="Pytorch" width="26px" src="https://user-images.githubusercontent.com/26820783/89693367-20ca2e00-d930-11ea-9216-fad5d4c3911b.jpg" />
 <img align="left" alt="Pandas" width="26px" src="https://user-images.githubusercontent.com/26820783/89693220-b2856b80-d92f-11ea-9308-7e0bc817f675.png" />
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/26820783/89693033-1c514580-d92f-11ea-9b67-cdb5f2a25b6f.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
