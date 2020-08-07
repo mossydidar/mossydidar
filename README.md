@@ -47,7 +47,7 @@
 
 <img align="left" alt="Mostafa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-[website]: 
+
 [youtube]: https://www.youtube.com/channel/UCAHQBevXtoNrAo4WKQp0Eew
 [instagram]: https://instagram.com/mossydidar
 [linkedin]: https://www.linkedin.com/in/mostafa-didar-226855140/
