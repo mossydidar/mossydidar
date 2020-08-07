@@ -2,7 +2,7 @@
 
 ## I'm a Tech Entrepreneur, Software Engineer-Machine Learning & Product Designer/Strategist based out of Bangladesh, and have a keen hunger for Research!
 - 🔭 I’m currently working on a Fin-Tech startup as Co-Founder and CTO and as Product Design and Strategy at another Digital Marketing Agency.
-- 🌱 I’m currently learning the applications of Reinforcement Learning in Computer Vision tasks using Remote Sensing and Space applications.
+- 🌱 I’m currently learning the applications of Reinforcement Learning in Computer Vision tasks used in Remote Sensing and Space.
 - 👯 I’m looking to collaborate with other like minded Engineers!
 - 🥅 2020 Goals: Contribute more to Open Source projects and make more money!
 - ⚡ Fun fact: I love to play the Guitar and Keys
@@ -14,7 +14,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
