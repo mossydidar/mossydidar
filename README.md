@@ -19,6 +19,7 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/26820783/89692997-0a6fa280-d92f-11ea-893f-245cb18579d3.png" />
+<img align="left" alt="Pandas" width="26px" src="https://user-images.githubusercontent.com/26820783/89693220-b2856b80-d92f-11ea-9308-7e0bc817f675.png" />
 <img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/26820783/89693033-1c514580-d92f-11ea-9b67-cdb5f2a25b6f.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
