@@ -1,17 +1,16 @@
 ### Hello there, I'm Mostafa Didar👋
 
-## I'm a Developer, and Teacher!
-- 🔭 I’m currently working on a !
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar 
+## I'm a Tech Entrepreneur, Software Engineer & Product Designer/Strategist based out of Bangladesh, and have a keen hunger for Research!
+- 🔭 I’m currently working on a Fin-Tech startup as Co-Founder and CTO and as Product Design and Strategy at another Digital Marketing Agency.
+- 🌱 I’m currently learning the applications of Reinforcement Learning in Computer Vision tasks using Remote Sensing and Space applications.
+- 👯 I’m looking to collaborate with other like minded Engineers!
+- 🥅 2020 Goals: Contribute more to Open Source projects and make more money!
+- ⚡ Fun fact: I love to play the Guitar and Keys
 
 ### Connect with me:
 
 [<img align="left" alt="Mostafa Didar | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Mostafa Didar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mostafa Didar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 
@@ -40,5 +39,4 @@
 
 
 [youtube]: https://www.youtube.com/channel/UCAHQBevXtoNrAo4WKQp0Eew
-[instagram]: https://instagram.com/mossydidar
 [linkedin]: https://www.linkedin.com/in/mostafa-didar-226855140/
