@@ -3,8 +3,8 @@
 ## I'm a Tech Entrepreneur, Machine Learning Software Engineer & Product Designer/Strategist based out of Bangladesh, and have a keen hunger for R&D!
 - 🔭 I’m currently working on a Fin-Tech startup as Co-Founder and CTO and as Product Designer and Strategist at another IT Firm.
 - 🌱 I’m currently learning the applications of Reinforcement Learning in Computer Vision tasks used in Remote Sensing and Space.
-- 👯 I’m looking to collaborate with other like minded Engineers!
-- 🥅 2020 Goals: Contribute more to Open Source projects and make more money!
+- 👯 I’m looking to collaborate with other like minded Engineers and Entrepreneurs!
+- 🥅 2020 Goals: Contribute more toward open source projects to help humanity!
 - ⚡ Fun fact: I love to play the Guitar and Keys
 
 ### Connect with me:
