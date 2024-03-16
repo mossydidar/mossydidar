@@ -1,11 +1,11 @@
 ### Hello there, I'm Mostafa Didar👋
 
-## I'm a Tech Entrepreneur, Machine Learning Software Engineer & Product Designer/Strategist based out of Bangladesh, and have a keen interest for R&D!
-- 🔭 I’m currently working with AI applications in the Geospatial & Space Sciences domain
-- 🌱 I’m currently learning how to puild Data Pipelines to help SME's improve their businesses
-- 👯 I’m looking to collaborate with other like minded Engineers and Entrepreneurs
-- 🥅 2021 Goals: Contribute more toward open source projects to help humanity and learn serverless computing
-- ⚡ Fun fact: I love to play the Guitar and Keys and take photos
+## I'm a Postgrad student of AI and Machine Learning at the University of Adelaide!
+- 🔭 I’m currently working with AI applications in the Natural Language Domain.
+- 🌱 I’m currently working as a Data Analytics intern with SAcommunity at Infoxchange.
+- 👯 I’m looking to collaborate with other like minded Engineers and Entrepreneurs.
+- 🥅 2024 Goals: Contribute more toward open source projects to help humanity and learn serverless computing.
+- ⚡ Fun fact: I love to play the Guitar and Keys and take photos.
 
 ### Connect with me:
 [<img align="left" alt="Mostafa Didar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
