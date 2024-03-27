@@ -4,7 +4,7 @@
 - 🔭 I’m currently working with AI applications in the Natural Language Domain.
 - 🌱 I’m currently working as a Data Analytics intern with SAcommunity at Infoxchange.
 - 👯 I’m looking to collaborate with other like minded Engineers and Entrepreneurs.
-- 🥅 2024 Goals: Contribute more toward open source projects to help humanity and learn serverless computing.
+- 🥅 2024 Goals: Contribute more toward open source projects to help humanity and focus on well-being.
 - ⚡ Fun fact: I love to play the Guitar and Keys and take photos.
 
 ### Connect with me:
