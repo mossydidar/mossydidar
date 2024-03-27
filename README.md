@@ -1,5 +1,6 @@
-Hello there, I'm Mostafa Didar👋
-I'm a Postgrad student of AI and Machine Learning at the University of Adelaide!
+## Hello there, I'm Mostafa Didar👋
+### I'm a Postgrad student of AI and Machine Learning at the University of Adelaide!
+
 🔭 I’m currently exploring AI applications in the Natural Language Domain.
 🌱 I’m an active Data Analytics intern with SAcommunity at Infoxchange, applying cutting-edge analytics techniques.
 👯 Keen on collaborating with like-minded Engineers and Entrepreneurs to create impactful solutions.
@@ -7,6 +8,7 @@ I'm a Postgrad student of AI and Machine Learning at the University of Adelaide!
 ⚡ Fun fact: Beyond tech, I’m passionate about music—playing the Guitar and Keys, and photography is my go-to creative outlet.
 
 🤝 Connect with me:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-didar-226855140/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCAHQBevXtoNrAo4WKQp0Eew)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mossydidar)
