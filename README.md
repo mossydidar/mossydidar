@@ -46,8 +46,8 @@
 <!-- YOUTUBE:END -->
 
 ---
+![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mossydidar&show_icons=true&theme=radical)
 
-<img align="left" alt="Mostafa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mossydidar&show_icons=true&hide_border=true" />
 
 
 [youtube]: https://www.youtube.com/channel/UCAHQBevXtoNrAo4WKQp0Eew
