@@ -52,7 +52,7 @@
 <!-- YOUTUBE:END -->
 
 ---
-![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mossydidar&show_icons=true&theme=radical)
+![📈 My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mossydidar&show_icons=true&theme=radical)
 
 
 
