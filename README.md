@@ -2,9 +2,13 @@
 ### I'm a Postgrad student of AI and Machine Learning at the University of Adelaide!
 
 🔭 I’m currently exploring AI applications in the Natural Language Domain.
+
 🌱 I’m an active Data Analytics intern with SAcommunity at Infoxchange, applying cutting-edge analytics techniques.
+
 👯 Keen on collaborating with like-minded Engineers and Entrepreneurs to create impactful solutions.
+
 🥅 2024 Goals: Amplify my contributions to open source projects, aiming to benefit humanity and prioritize well-being.
+
 ⚡ Fun fact: Beyond tech, I’m passionate about music—playing the Guitar and Keys, and photography is my go-to creative outlet.
 
 🤝 Connect with me:
