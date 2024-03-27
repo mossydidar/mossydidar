@@ -1,13 +1,12 @@
-### Hello there, I'm Mostafa Didar👋
+Hello there, I'm Mostafa Didar👋
+I'm a Postgrad student of AI and Machine Learning at the University of Adelaide!
+🔭 I’m currently exploring AI applications in the Natural Language Domain.
+🌱 I’m an active Data Analytics intern with SAcommunity at Infoxchange, applying cutting-edge analytics techniques.
+👯 Keen on collaborating with like-minded Engineers and Entrepreneurs to create impactful solutions.
+🥅 2024 Goals: Amplify my contributions to open source projects, aiming to benefit humanity and prioritize well-being.
+⚡ Fun fact: Beyond tech, I’m passionate about music—playing the Guitar and Keys, and photography is my go-to creative outlet.
 
-## I'm a Postgrad student of AI and Machine Learning at the University of Adelaide!
-- 🔭 I’m currently working with AI applications in the Natural Language Domain.
-- 🌱 I’m currently working as a Data Analytics intern with SAcommunity at Infoxchange.
-- 👯 I’m looking to collaborate with other like minded Engineers and Entrepreneurs.
-- 🥅 2024 Goals: Contribute more toward open source projects to help humanity and focus on well-being.
-- ⚡ Fun fact: I love to play the Guitar and Keys and take photos.
-
-### Connect with me:
+🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-didar-226855140/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCAHQBevXtoNrAo4WKQp0Eew)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mossydidar)
@@ -17,7 +16,7 @@
 
 <br/>
 
-### Languages and Tools:
+🛠 Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
