@@ -53,7 +53,7 @@
 
 ---
 ![Stats](https://github-readme-stats.vercel.app/api?username=mossydidar&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mossydidar)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mossydidar&theme=dark)](https://git.io/streak-stats)
 
 
 [youtube]: https://www.youtube.com/channel/UCAHQBevXtoNrAo4WKQp0Eew
