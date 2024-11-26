@@ -44,12 +44,7 @@
 
 
 
----
 
-### 📺 Favorite Music Cover:
-<!-- YOUTUBE:START -->
-- [I took a pill in Ibiza](https://www.youtube.com/watch?v=BcZ8Lz0pHso)
-<!-- YOUTUBE:END -->
 
 ---
 ![Stats](https://github-readme-stats.vercel.app/api?username=mossydidar&show_icons=true&theme=radical)
