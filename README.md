@@ -1,5 +1,5 @@
 ## Hello there, I'm Mostafa Didar👋
-### I'm a Postgrad student of AI and Machine Learning at the University of Adelaide!
+### I'm Data Analytics Professional with a Masters in AI and Machine Learning!
 
 🔭 I’m currently exploring AI applications in the Natural Language Domain.
 
@@ -7,7 +7,7 @@
 
 👯 Keen on collaborating with like-minded Engineers and Entrepreneurs to create impactful solutions.
 
-🥅 2024 Goals: Amplify my contributions to open source projects, aiming to benefit humanity and prioritize well-being and write more articles on Medium.
+🥅 2025 Goals: Amplify my contributions to open source projects, aiming to benefit humanity and prioritize well-being and write more articles on Medium.
 
 ⚡ Fun fact: Beyond tech, I’m passionate about music—playing the Guitar and Keys, and photography is my go-to creative outlet.
 
