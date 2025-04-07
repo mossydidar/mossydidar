@@ -1,15 +1,15 @@
 ## Hello there, I'm Mostafa Didar👋
-### I'm Data Analytics Professional with a Masters in AI and Machine Learning!
+### I'm a Data Scientist with a Masters in AI and Machine Learning!
 
-🔭 I’m currently exploring AI applications in the Natural Language Domain.
+🔭 I’m currently applying AI optimization techniques in order to build more resilient supply chains.
 
-🌱 I’m an active Data Analytics intern with SAcommunity at Infoxchange, applying cutting-edge analytics techniques.
+🌱 I’m an active Jr Data Scientist with Complexica, applying cutting-edge analytics techniques.
 
 👯 Keen on collaborating with like-minded Engineers and Entrepreneurs to create impactful solutions.
 
 🥅 2025 Goals: Amplify my contributions to open source projects, aiming to benefit humanity and prioritize well-being and write more articles on Medium.
 
-⚡ Fun fact: Beyond tech, I’m passionate about music—playing the Guitar and Keys, and photography is my go-to creative outlet.
+⚡ Fun fact: Beyond tech, I’m passionate about producing music and and photography is my go-to creative outlet.
 
 🤝 Connect with me:
 
