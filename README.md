@@ -16,7 +16,7 @@ I enjoy building practical AI systems that connect technical depth with business
 - 🧠 Exploring **AI agents, RAG systems, model explainability, and LLM-powered workflows**.
 - 🛠 Building tools that make machine learning outputs easier for business users to understand and trust.
 - ✍️ Writing more about AI, data science, and applied machine learning on Medium.
-- 🎧 Producing electronic music as **Djay Mossy** and exploring the creative side of technology.
+- 🎧 Producing electronic music as **Mossyy** and exploring the creative side of technology.
 
 ---
 
@@ -139,7 +139,7 @@ I write about AI, machine learning, data science, applied analytics, and the evo
 
 ## 🎧 Creative Side
 
-Beyond tech, I produce electronic music as **Djay Mossy**, with influences across melodic dubstep, heaven trap, bass, dance EDM, and cinematic electronic sounds.
+Beyond tech, I produce electronic music as **Mossyy**, with influences across melodic dubstep, sythpop, tech house, bass, dance EDM, and cinematic electronic sounds.
 
 Photography is also one of my favourite creative outlets — it helps me think visually, tell better stories, and bring more creativity into technical communication.
 
